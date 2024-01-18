@@ -6,7 +6,7 @@
 <p>Your accounts uncomplicated!<br> 
 Suas contas descomplicadas!</p>
 </h1>
-<h3 align="center"><a href="https://superfluous-workman.000webhostapp.com/">See the project here!<br>
+<h3 align="center"><a href="https://gregarious-cobbler-61791f.netlify.app/">See the project here!<br>
 Veja o projeto aqui!</a></h3>
 <hr>
 
@@ -21,7 +21,7 @@ Projeto realizado com base em uma atividade do curso Desenvolvimento Web complet
 
 ## 🔧 Tools
 
-- [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 
 <br>
 
