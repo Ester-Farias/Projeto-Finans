@@ -3,8 +3,8 @@
 ![GifFinans](https://user-images.githubusercontent.com/103768076/172375867-3ddbda0c-08ea-444c-9daf-a6d861360fe1.gif)
 
 <h1 align="center">
-<p>Your private email sending app!<br> 
-Seu app de envio de e-mails particular!</p>
+<p>Your accounts uncomplicated!<br> 
+Suas contas descomplicadas!</p>
 </h1>
 <h3 align="center"><a href="https://superfluous-workman.000webhostapp.com/">See the project here!<br>
 Veja o projeto aqui!</a></h3>
